@@ -2,7 +2,7 @@
 /**
  * Simple DB ORM
  * 
- * @author shijun
+ * @author dongxu
  *
  */
 abstract class Data_ORM_Abstract{
